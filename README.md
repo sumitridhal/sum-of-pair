@@ -31,9 +31,7 @@ for(var i of sample_data) {
 
 A simple brute force solution is be traverse each element and check if there’s another number in the array which can be added to it to give sum.
 
-**Time Complexity : O(n2)**
-
-**Auxiliary Space : O(1)**
+**Time Complexity : O(n2)** </br> **Auxiliary Space : O(1)**
 
 ```
 var arr = [0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51,
