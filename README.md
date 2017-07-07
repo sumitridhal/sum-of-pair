@@ -8,7 +8,8 @@ Given an array of integers, return all pairs that add up to S
 
 ## Code
 
-```var sample_data = [0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51,
+```
+var sample_data = [0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51,
                       49, 50, 51, 49, 51];
 
 var found = {};
@@ -21,4 +22,5 @@ for(var i of sample_data) {
         });
     }
     found[i] = true;
-}```
+}
+```
