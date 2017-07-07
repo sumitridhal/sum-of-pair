@@ -7,7 +7,7 @@ Given an array of integers, return all pairs that add up to S
 `[0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51, 49, 50, 51, 49, 51]` and the function should return something like this (the order is not important). `[ [0,100], [1,99], [10,90], [50,50], [49,51] ]`
 
 ## Approach 1 
-**Time Complexity : O(n2)**
+**Time Complexity : O(n)**
 
 ```
 var sample_data = [0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51,
