@@ -30,6 +30,7 @@ for(var i of sample_data) {
 ### Brute Force Solution:
 
 A simple brute force solution is be traverse each element and check if there’s another number in the array which can be added to it to give sum.
+
 **Time Complexity : O(n2)**
 
 **Auxiliary Space : O(1)**
